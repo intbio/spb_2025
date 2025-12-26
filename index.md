@@ -1,5 +1,5 @@
-<a href="https://github.com/intbio/spb_2024/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
-# Современные проблемы биологии (Осень 2024), 2 курс магистратуры
+<a href="https://github.com/intbio/spb_2025/blob/main/index.md"><img style="position: absolute; top: 0; right: 0; border: 0;" src="gitimg.png" alt="To GitHub"></a>
+# Современные проблемы биологии (Осень 2025), 2 курс магистратуры
 
 
 ### Contact information
@@ -19,7 +19,7 @@
 ### Textbooks and learning resources
 
 ### Course calendar
-- Dates: 2/10/2024; 9/10/2024; 16/10/2024; 23/10/2024?; 30/10/2024?; 6/11/2024; 13/11/2024?; 20/11/2022; 27/12/2024; 4/12/2024; 11/12/2024;
+- Dates: ;
 
 ### Attendance policy
 - 100% attendance is required
